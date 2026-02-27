@@ -1,0 +1,30 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "Diálogo con resultados"
+  author: "CONA"
+  chapters:
+    - index.md
+    - 01-prologo.md
+    - 02-introduccion.md
+    - 03-parte-1.md
+    - 04-parte-2.md
+    - 05-parte-3.md
+    - 06-parte-4.md
+    - 07-parte-5.md
+    - 08-parte-6.md
+    - 09-parte-7.md
+    - 10-epilogo.md
+    - 11-cierre.md
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+  epub:
+    css: styles.css
+  
+lang: es-PE

@@ -1,0 +1,14 @@
+# INTRODUCCIÓN
+
+El sector de la construcción en el Perú ha sido, históricamente, un ámbito marcado por desafíos complejos que abarcan la mejora de las condiciones económicas de los trabajadores, el fortalecimiento de la seguridad laboral, el impulso a la competitividad empresarial y la promoción de políticas públicas que favorezcan su desarrollo y contribuyan al bienestar de la población. Abordar estos retos con eficacia exige establecer dinámicas de relación proactivas entre trabajadores, empresarios y el Estado. En este contexto, el diálogo social ha surgido como una herramienta crucial para enfrentar dichos desafíos y promover el desarrollo sostenible del sector. Este libro, Diálogo con Resultados, recoge y analiza veintidós años de experiencias y aprendizajes de un proceso continuo de búsqueda de consensos, que ha transformado las relaciones laborales entre la Federación de Trabajadores en Construcción Civil del Perú (FTCCP) y la Cámara Peruana de la Construcción (CAPECO).
+
+La FTCCP, como organización sindical, mantiene el compromiso de elevar las condiciones de vida y de trabajo, así como de promover la justicia social para los trabajadores; mientras que CAPECO agrupa y representa a los empresarios del sector, quienes buscan contribuir al desarrollo del país mediante edificaciones e infraestructuras seguras, eficientes y de calidad.
+
+En estas dos décadas, ambos gremios han superado barreras y desencuentros para deponer diferencias y construir soluciones que beneficien a todos los involucrados. Los acuerdos alcanzados no solo han mejorado las condiciones laborales y fortalecido la paz social en el sector, sino que también han impulsado la innovación, la productividad y el desarrollo de la industria de la construcción. Destacan, además, las estrategias y enfoques que han hecho posible este progreso.
+
+A lo largo de estos veintidós años, la estrategia del diálogo orientado a resultados ha sido un instrumento clave para alcanzar acuerdos sobre asuntos cada vez más complejos, sustentados en el reconocimiento de la representatividad de la otra parte, la legitimidad de sus aspiraciones y la capacidad de renunciar a lo accesorio para consensuar sobre lo esencial.
+
+En este libro se abordan diversos aspectos de este proceso permanente de diálogo social, desde los mecanismos de negociación y mediación hasta las implicancias políticas, económicas y sociales derivadas de los acuerdos alcanzados. Se incluyen también las voces de expertos y líderes de opinión, quienes aportan perspectivas sobre la relevancia de los logros obtenidos y los desafíos futuros.
+
+Al describir este proceso de colaboración y resiliencia, la FTCCP y CAPECO expresan la expectativa de que estas experiencias puedan servir de inspiración y guía para otros actores y grupos sociales en la búsqueda de un desarrollo común basado en la cooperación y el respeto mutuo.
+
